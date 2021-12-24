@@ -107,7 +107,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sekil Park"
+  name             : "skpark"
   avatar           : "/assets/images/guu.gif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "^___^"
   location         : "Daejeon, South Korea"
